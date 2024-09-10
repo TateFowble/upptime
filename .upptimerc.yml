@@ -3,9 +3,18 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: TateWBS
+  - name: API-TateWBS
+    url: https://api.tatewbs.com
+  - name: TateWBS Main Site
     url: https://www.tatewbs.com
-
+  - name: TateWBS Client Portal
+    url: https://portal.tatewbs.com
+  - name: API-MyEasyMenu
+    url: https://cdn.myeasy.menu
+  - name: MyEasyMenu Main Site
+    url: https://www.myeasy.menu
+  - name: StarWorksMC Main Site
+    url: https://www.starworksmc.us
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
