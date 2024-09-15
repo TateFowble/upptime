@@ -72,7 +72,7 @@
     "timeMonth": 875,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2024-09-15": 184,
+      "2024-09-15": 210,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -85,19 +85,19 @@
     "url": "https://www.myeasy.menu",
     "icon": "https://icons.duckduckgo.com/ip3/www.myeasy.menu.ico",
     "slug": "my-easy-menu-main-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 576,
-    "timeWeek": 716,
-    "timeMonth": 716,
-    "timeYear": 716,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 668,
+    "timeDay": 479,
+    "timeWeek": 668,
+    "timeMonth": 668,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2024-09-15": 0
+      "2024-09-15": 26
     }
   },
   {
