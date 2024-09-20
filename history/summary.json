@@ -4,9 +4,9 @@
     "url": "https://api.tatewbs.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.tatewbs.com.ico",
     "slug": "api-tate-wbs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 374,
     "timeMonth": 394,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-20": 0
+    }
   },
   {
     "name": "TateWBS Main Site",
@@ -72,7 +74,7 @@
     "timeMonth": 721,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2024-09-20": 526,
+      "2024-09-20": 573,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -111,18 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starworksmc.us.ico",
     "slug": "star-works-mc-main-site",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 142,
     "timeWeek": 211,
     "timeMonth": 303,
     "timeYear": 303,
-    "dailyMinutesDown": {
-      "2024-09-20": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
