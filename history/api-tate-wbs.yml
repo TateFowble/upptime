@@ -1,7 +1,7 @@
 url: https://api.tatewbs.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-18T09:24:06.079Z
+status: up
+code: 200
+responseTime: 345
+lastUpdated: 2024-10-18T09:36:36.559Z
 startTime: 2024-09-10T02:26:09.582Z
 generator: Upptime <https://github.com/upptime/upptime>
