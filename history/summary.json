@@ -84,7 +84,7 @@
     "timeMonth": 662,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2024-11-04": 87,
+      "2024-11-04": 112,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
@@ -170,7 +170,7 @@
     "url": "https://www.starworksmc.us",
     "icon": "https://icons.duckduckgo.com/ip3/www.starworksmc.us.ico",
     "slug": "star-works-mc-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -182,6 +182,7 @@
     "timeMonth": 223,
     "timeYear": 245,
     "dailyMinutesDown": {
+      "2024-11-04": 0,
       "2024-10-14": 22,
       "2024-10-01": 61,
       "2024-09-26": 22
