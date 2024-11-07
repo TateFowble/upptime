@@ -4,7 +4,7 @@
     "url": "https://api.tatewbs.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.tatewbs.com.ico",
     "slug": "api-tate-wbs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 356,
     "timeYear": 367,
     "dailyMinutesDown": {
+      "2024-11-07": 0,
       "2024-10-21": 115,
       "2024-10-20": 2,
       "2024-10-15": 18,
@@ -84,7 +85,7 @@
     "timeMonth": 638,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-11-07": 84,
+      "2024-11-07": 349,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
