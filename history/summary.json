@@ -30,9 +30,9 @@
     "url": "https://www.tatewbs.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tatewbs.com.ico",
     "slug": "tate-wbs-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.81%",
@@ -42,6 +42,7 @@
     "timeMonth": 219,
     "timeYear": 211,
     "dailyMinutesDown": {
+      "2024-12-02": 0,
       "2024-11-22": 19,
       "2024-11-19": 21,
       "2024-11-13": 56,
@@ -94,7 +95,7 @@
     "timeMonth": 723,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2024-12-02": 103,
+      "2024-12-02": 312,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
